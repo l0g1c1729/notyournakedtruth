@@ -1,20 +1,15 @@
 title: not your naked truth
-description:
- 
+description: a subvertising collective
 copyright: @ajlkn
 sass:
-  sass_dir: assets/sass
+sass_dir: assets/sass
 url: http://teoryaclothing.com
-disqus_shortname: stratajekylldemo
-facebook_username: teoryaclothing
-twitter_username: "#" teoryaclothing
-linkedin_username: "#"
-instagram_username: teoryaclothing
-pinterest_username:
-flickr_username:
+facebook_username: "https://facebook.com//teoryaclothing"
+twitter_username: "https://twitter.com/teoryaclothing" 
+instagram_username: "https://instagram.com/teoryaclothing"
 github_username:  "#"
 feed_icon: rss
-email: "#"
+email: "teorya@protonmail.ch"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
