@@ -1579,13 +1579,13 @@
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #d61a3c;
+		color: #F44336;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #d61a3c !important;
+			color: #F44336 !important;
 			text-decoration: none;
 		}
 
@@ -1792,7 +1792,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #d61a3c;
+			border-color: #F44336;
 		}
 
 	.select-wrapper {
@@ -1902,7 +1902,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #d61a3c;
+			border-color: #F44336;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2350,8 +2350,8 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #d61a3c;
-			color: #d61a3c !important;
+			border-color: #F44336;
+			color: #F44336 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2359,8 +2359,8 @@
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #d61a3c;
-			color: #d61a3c !important;
+			border-color: #F44336;
+			color: #F44336 !important;
 		}
 
 		input[type="submit"].icon,
@@ -2405,8 +2405,8 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #d61a3c;
-			border-color: #d61a3c;
+			background-color: #F44336;
+			border-color: #F44336;
 			color: #ffffff !important;
 		}
 
@@ -2479,7 +2479,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #1f1815;
+		background-color: #212121;
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,							top left;
@@ -2949,7 +2949,7 @@
 
 			#footer {
 				background-attachment: scroll;
-				background-color: #1f1815;
+				background-color: #212121;
 				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
